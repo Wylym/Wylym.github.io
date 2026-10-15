@@ -11,4 +11,4 @@ A life simulator you can play offline on your phone. Live a whole life, one year
 
 Saves stay on your phone. Use **Settings → Back up all lives** to keep a backup file.
 
-Version `7db1b70361`.
+Version `bc3febe3fb`.
